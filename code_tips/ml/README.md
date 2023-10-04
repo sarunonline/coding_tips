@@ -12,10 +12,28 @@
      exit
      ```
 4. Create a Machine Learning environment inside the New folder created in the drive
-   - Open `Anaconda` command prompt
+   - Open the `Anaconda` command prompt
    - Navigate to the New Folder created
      ```
      E:
      cd ml
      ```
-   - Create the Conda environment in `ml` folder
+   - Create the `conda` environment in `ml` folder in `Anaconda` command prompt
+     ```
+     conda create --prefix ./env pandas numpy scikit-learn tensorflow tensorflow-hub
+     conda install --prefix ./env jupyter
+     ```
+   - Verifying the successful creation of `conda` environment in `Anaconda` command prompt
+     ```
+     conda env list
+     ```
+   - Activating `conda` environment for Machine learning programming/coding in `Anaconda` command prompt
+     ```
+     conda activate E:\ml\env
+     ```
+   - Opening Jupyter Notebook in the `conda` environment in the `ml` folder in `Anaconda` command prompt
+     ```
+     jupyter notebook
+     ```
+     The default browser will open with the jupyter notebook
+5. Open the new notebook for python 3 programming/Machine learning programming 
