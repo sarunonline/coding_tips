@@ -2,9 +2,7 @@
 
 Collection of knowledge I have gained while coding and learning new software, apps or programming languages.
 
-## Collection of emojis used in the Github repository
-- [emoji collection - 1](https://github.com/sarunonline/coding_tips/blob/main/github_emoji.md)
-- [emoji collection - 2](https://github.com/sarunonline/coding_tips/blob/main/emojis.md)
+## [Collection of emojis used in the Github repository](https://github.com/sarunonline/coding_tips/blob/main/code_tips/emoji/README.md)
 
 ## Creating a Machine Learning environment in Windows 64-bit PC
 
