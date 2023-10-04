@@ -4,7 +4,7 @@ Collection of knowledge I have gained while coding and learning new software, ap
 
 ## [1. Collection of emojis used in the Github repository](https://github.com/sarunonline/coding_tips/blob/main/code_tips/emoji/README.md)
 
-## Creating a Machine Learning environment in Windows 64-bit PC
+## [2. Creating a Machine Learning environment in Windows 64-bit PC](https://github.com/sarunonline/coding_tips/blob/main/code_tips/ml/README.md)
 
 1. Install latest Miniconda
    - [https://docs.conda.io/projects/miniconda/en/latest/index.html](https://docs.conda.io/projects/miniconda/en/latest/index.html). Older versions of Miniconda is available at [https://repo.anaconda.com/miniconda/](https://repo.anaconda.com/miniconda/)
