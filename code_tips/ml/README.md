@@ -9,5 +9,5 @@
    - Open Windows command prompt, `cmd`
    - Navigate to the New Folder created
 ## Create a Machine Learning environment inside the New folder created in the drive
-    - Open Anaconda prompt, `cmd`
+   - Open Anaconda prompt, `cmd`
    - Navigate to the New Folder created
