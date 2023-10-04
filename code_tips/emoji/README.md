@@ -1,16 +1,92 @@
 # Collection of emojis used in the Github repository
 
+## Github emoji collections
 
-- [emoji collection - 1](https://github.com/sarunonline/coding_tips/blob/main/code_tips/code_tips/emoji/github_emoji.md)
+I've consolidated the `github.com` emoji collection, which are used in the `markdown` codes in `github.com`
 
-# emoji-cheat-sheet
+|emoji| code | Description |
+|-----|-----|-----|
+| 🎨 | `:art:` | Improve structure / format of the code. |  
+| ⚡️ | `:zap:` | Improve performance. |  
+| 🔥 | `:fire:` | Remove code or files. | 
+| 🐛 | `:bug:` | Fix a bug. | 
+| 🚑️ | `:ambulance:` | Critical hotfix. | 
+| ✨ | `:sparkles:` | Introduce new features. | 
+| 📝 | `:memo:` | Add or update documentation. | 
+| 🚀 | `:rocket:` | Deploy stuff. | 
+| 💄 | `:lipstick:` | Add or update the UI and style files. | 
+| 🎉 | `:tada:` | Begin a project. | 
+| ✅ | `:white_check_mark:` | Add, update, or pass tests. | 
+| 🔒️ | `:lock:` | Fix security issues. | 
+| 🔐 | `:closed_lock_with_key:` | Add or update secrets. | 
+| 🔖 | `:bookmark:` | Release / Version tags. | 
+| 🚨 | `:rotating_light:` | Fix compiler / linter warnings. | 
+| 🚧 | `:construction:` | Work in progress. | 
+| 💚 | `:green_heart:` | Fix CI Build. | 
+| ⬇ ️ | `:arrow_down:` | Downgrade dependencies. | 
+| ⬆️ | `:arrow_up:` | Upgrade dependencies. | 
+| 📌 | `:pushpin:` | Pin dependencies to specific versions. | 
+| 👷 | `:construction_worker:` | Add or update CI build system. | 
+| 📈 | `:chart_with_upwards_trend:` | Add or update analytics or track code. | 
+| ♻️ | `:recycle:` | Refactor code. | 
+| ➕ | `:heavy_plus_sign:` | Add a dependency. | 
+| ➖ | `:heavy_minus_sign:` | Remove a dependency. | 
+| 🔧 | `:wrench:` | Add or update configuration files. | 
+| 🔨 | `:hammer:` | Add or update development scripts. | 
+| 🌐 | `:globe_with_meridians:` | Internationalization and localization. | 
+| ✏️ | `:pencil2:` | Fix typos. | 
+| 💩 | `:poop:` | Write bad code that needs to be improved. | 
+| ⏪️ | `:rewind:` | Revert changes. | 
+| 🔀 | `:twisted_rightwards_arrows:` | Merge branches. | 
+| 📦️ | `:package:` | Add or update compiled files or packages. | 
+| 👽️ | `:alien:` | Update code due to external API changes. | 
+| 🚚 | `:truck:` | Move or rename resources (e.g. : files, paths, routes). | 
+| 📄 | `:page_facing_up:` | Add or update license. | 
+| 💥 | `:boom:` | Introduce breaking changes. | 
+| 🍱 | `:bento:` | Add or update assets. | 
+| ♿️ | `:wheelchair:` | Improve accessibility. | 
+| 💡 | `:bulb:` | Add or update comments in source code. | 
+| 🍻 | `beers:` | Write code drunkenly. | 
+| 💬 | `:speech_balloon:` | Add or update text and literals. | 
+| 🗃️ | `:card_file_box:` | Perform database related changes. | 
+| 🔊 | `:loud_sound:` | Add or update logs. | 
+| 🔇 | `:mute:` | Remove logs. | 
+| 👥 | `:busts_in_silhouette:` | Add or update contributor(s). | 
+| 🚸 | `:children_crossing:` | Improve user experience / usability. | 
+| 🏗️ | `:building_construction:` | Make architectural changes. | 
+| 📱 | `:iphone:` | Work on responsive design. | 
+| 🤡 | `:clown_face:` | Mock things. | 
+| 🥚 | `:egg:` | Add or update an easter egg. | 
+| 🙈 | `:see_no_evil:` | Add or update a .gitignore file. | 
+| 📸 | `:camera_flash:` | Add or update snapshots. | 
+| ⚗️ | `:alembic:` | Perform experiments. | 
+| 🔍️ | `:mag:` | `Improve SEO. | 
+| 🏷️ | `:label:` | Add or update types. | 
+| 🌱 | `:seedling:` | Add or update seed files. | 
+| 🚩 | `:triangular_flag_on_post:` | Add, update, or remove feature flags. | 
+| 🥅 | `:goal_net:` | Catch errors. | 
+| 💫 | `:dizzy:` | Add or update animations and transitions. | 
+| 🗑️ | `:wastebasket:` | Deprecate code that needs to be cleaned up. | 
+| 🛂 | `:passport_control:` | Work on code related to authorization, roles and permissions. | 
+| 🩹 | `:adhesive_bandage:` | Simple fix for a non-critical issue. | 
+| 🧐 | `:monocle_face:` | Data exploration/inspection. | 
+| ⚰️ | `:coffin:` | Remove dead code. | 
+| 🧪 | `:test_tube:` | Add a failing test. | 
+| 👔 | `:necktie:` | Add or update business logic. | 
+| 🩺 | `:stethoscope:` | Add or update healthcheck. | 
+| 🧱 | `:bricks:` | Infrastructure related changes. | 
+| 🧑‍💻 | `:technologist:` | Improve developer experience. | 
+| 💸 | `:money_with_wings:` | Add sponsorships or money related infrastructure. | 
+| 🧵 | `:thread:` | Add or update code related to multithreading or concurrency. | 
+| 🦺 | `:safety_vest:`
+
+
+## Emoji Cheat Sheet
 taken from [ikatyang](https://github.com/ikatyang/emoji-cheat-sheet/tree/master)
-
 [![Up to Date](https://github.com/ikatyang/emoji-cheat-sheet/workflows/Up%20to%20Date/badge.svg)](https://github.com/ikatyang/emoji-cheat-sheet/actions?query=workflow%3A%22Up+to+Date%22)
-
 This cheat sheet is automatically generated from [GitHub Emoji API](https://api.github.com/emojis) and [Unicode Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html).
 
-## Table of Contents
+### Table of Contents
 
 - [Smileys & Emotion](#smileys--emotion)
 - [People & Body](#people--body)
@@ -23,7 +99,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 - [Flags](#flags)
 - [GitHub Custom Emoji](#github-custom-emoji)
 
-### Smileys & Emotion
+#### Smileys & Emotion
 
 - [Face Smiling](#face-smiling)
 - [Face Affection](#face-affection)
@@ -42,7 +118,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 - [Heart](#heart)
 - [Emotion](#emotion)
 
-#### Face Smiling
+##### Face Smiling
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -54,7 +130,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#smileys--emotion) | :wink: | `:wink:` | :blush: | `:blush:` | [top](#table-of-contents) |
 | [top](#smileys--emotion) | :innocent: | `:innocent:` | | | [top](#table-of-contents) |
 
-#### Face Affection
+##### Face Affection
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -64,7 +140,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#smileys--emotion) | :kissing_closed_eyes: | `:kissing_closed_eyes:` | :kissing_smiling_eyes: | `:kissing_smiling_eyes:` | [top](#table-of-contents) |
 | [top](#smileys--emotion) | :smiling_face_with_tear: | `:smiling_face_with_tear:` | | | [top](#table-of-contents) |
 
-#### Face Tongue
+##### Face Tongue
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -72,14 +148,14 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#smileys--emotion) | :stuck_out_tongue_winking_eye: | `:stuck_out_tongue_winking_eye:` | :zany_face: | `:zany_face:` | [top](#table-of-contents) |
 | [top](#smileys--emotion) | :stuck_out_tongue_closed_eyes: | `:stuck_out_tongue_closed_eyes:` | :money_mouth_face: | `:money_mouth_face:` | [top](#table-of-contents) |
 
-#### Face Hand
+##### Face Hand
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
 | [top](#smileys--emotion) | :hugs: | `:hugs:` | :hand_over_mouth: | `:hand_over_mouth:` | [top](#table-of-contents) |
 | [top](#smileys--emotion) | :shushing_face: | `:shushing_face:` | :thinking: | `:thinking:` | [top](#table-of-contents) |
 
-#### Face Neutral Skeptical
+##### Face Neutral Skeptical
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -90,7 +166,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#smileys--emotion) | :roll_eyes: | `:roll_eyes:` | :grimacing: | `:grimacing:` | [top](#table-of-contents) |
 | [top](#smileys--emotion) | :face_exhaling: | `:face_exhaling:` | :lying_face: | `:lying_face:` | [top](#table-of-contents) |
 
-#### Face Sleepy
+##### Face Sleepy
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -98,7 +174,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#smileys--emotion) | :sleepy: | `:sleepy:` | :drooling_face: | `:drooling_face:` | [top](#table-of-contents) |
 | [top](#smileys--emotion) | :sleeping: | `:sleeping:` | | | [top](#table-of-contents) |
 
-#### Face Unwell
+##### Face Unwell
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -109,21 +185,21 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#smileys--emotion) | :woozy_face: | `:woozy_face:` | :dizzy_face: | `:dizzy_face:` | [top](#table-of-contents) |
 | [top](#smileys--emotion) | :face_with_spiral_eyes: | `:face_with_spiral_eyes:` | :exploding_head: | `:exploding_head:` | [top](#table-of-contents) |
 
-#### Face Hat
+##### Face Hat
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
 | [top](#smileys--emotion) | :cowboy_hat_face: | `:cowboy_hat_face:` | :partying_face: | `:partying_face:` | [top](#table-of-contents) |
 | [top](#smileys--emotion) | :disguised_face: | `:disguised_face:` | | | [top](#table-of-contents) |
 
-#### Face Glasses
+##### Face Glasses
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
 | [top](#smileys--emotion) | :sunglasses: | `:sunglasses:` | :nerd_face: | `:nerd_face:` | [top](#table-of-contents) |
 | [top](#smileys--emotion) | :monocle_face: | `:monocle_face:` | | | [top](#table-of-contents) |
 
-#### Face Concerned
+##### Face Concerned
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -140,7 +216,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#smileys--emotion) | :sweat: | `:sweat:` | :weary: | `:weary:` | [top](#table-of-contents) |
 | [top](#smileys--emotion) | :tired_face: | `:tired_face:` | :yawning_face: | `:yawning_face:` | [top](#table-of-contents) |
 
-#### Face Negative
+##### Face Negative
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -149,7 +225,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#smileys--emotion) | :smiling_imp: | `:smiling_imp:` | :imp: | `:imp:` | [top](#table-of-contents) |
 | [top](#smileys--emotion) | :skull: | `:skull:` | :skull_and_crossbones: | `:skull_and_crossbones:` | [top](#table-of-contents) |
 
-#### Face Costume
+##### Face Costume
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -158,7 +234,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#smileys--emotion) | :ghost: | `:ghost:` | :alien: | `:alien:` | [top](#table-of-contents) |
 | [top](#smileys--emotion) | :space_invader: | `:space_invader:` | :robot: | `:robot:` | [top](#table-of-contents) |
 
-#### Cat Face
+##### Cat Face
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -168,14 +244,14 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#smileys--emotion) | :scream_cat: | `:scream_cat:` | :crying_cat_face: | `:crying_cat_face:` | [top](#table-of-contents) |
 | [top](#smileys--emotion) | :pouting_cat: | `:pouting_cat:` | | | [top](#table-of-contents) |
 
-#### Monkey Face
+##### Monkey Face
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
 | [top](#smileys--emotion) | :see_no_evil: | `:see_no_evil:` | :hear_no_evil: | `:hear_no_evil:` | [top](#table-of-contents) |
 | [top](#smileys--emotion) | :speak_no_evil: | `:speak_no_evil:` | | | [top](#table-of-contents) |
 
-#### Heart
+##### Heart
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -191,7 +267,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#smileys--emotion) | :purple_heart: | `:purple_heart:` | :brown_heart: | `:brown_heart:` | [top](#table-of-contents) |
 | [top](#smileys--emotion) | :black_heart: | `:black_heart:` | :white_heart: | `:white_heart:` | [top](#table-of-contents) |
 
-#### Emotion
+##### Emotion
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -203,7 +279,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#smileys--emotion) | :left_speech_bubble: | `:left_speech_bubble:` | :right_anger_bubble: | `:right_anger_bubble:` | [top](#table-of-contents) |
 | [top](#smileys--emotion) | :thought_balloon: | `:thought_balloon:` | :zzz: | `:zzz:` | [top](#table-of-contents) |
 
-### People & Body
+#### People & Body
 
 - [Hand Fingers Open](#hand-fingers-open)
 - [Hand Fingers Partial](#hand-fingers-partial)
@@ -222,7 +298,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 - [Family](#family)
 - [Person Symbol](#person-symbol)
 
-#### Hand Fingers Open
+##### Hand Fingers Open
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -230,7 +306,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#people--body) | :raised_hand_with_fingers_splayed: | `:raised_hand_with_fingers_splayed:` | :hand: | `:hand:` <br /> `:raised_hand:` | [top](#table-of-contents) |
 | [top](#people--body) | :vulcan_salute: | `:vulcan_salute:` | | | [top](#table-of-contents) |
 
-#### Hand Fingers Partial
+##### Hand Fingers Partial
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -239,7 +315,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#people--body) | :crossed_fingers: | `:crossed_fingers:` | :love_you_gesture: | `:love_you_gesture:` | [top](#table-of-contents) |
 | [top](#people--body) | :metal: | `:metal:` | :call_me_hand: | `:call_me_hand:` | [top](#table-of-contents) |
 
-#### Hand Single Finger
+##### Hand Single Finger
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -247,7 +323,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#people--body) | :point_up_2: | `:point_up_2:` | :fu: | `:fu:` <br /> `:middle_finger:` | [top](#table-of-contents) |
 | [top](#people--body) | :point_down: | `:point_down:` | :point_up: | `:point_up:` | [top](#table-of-contents) |
 
-#### Hand Fingers Closed
+##### Hand Fingers Closed
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -255,7 +331,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#people--body) | :fist: | `:fist:` <br /> `:fist_raised:` | :facepunch: | `:facepunch:` <br /> `:fist_oncoming:` <br /> `:punch:` | [top](#table-of-contents) |
 | [top](#people--body) | :fist_left: | `:fist_left:` | :fist_right: | `:fist_right:` | [top](#table-of-contents) |
 
-#### Hands
+##### Hands
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -263,14 +339,14 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#people--body) | :open_hands: | `:open_hands:` | :palms_up_together: | `:palms_up_together:` | [top](#table-of-contents) |
 | [top](#people--body) | :handshake: | `:handshake:` | :pray: | `:pray:` | [top](#table-of-contents) |
 
-#### Hand Prop
+##### Hand Prop
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
 | [top](#people--body) | :writing_hand: | `:writing_hand:` | :nail_care: | `:nail_care:` | [top](#table-of-contents) |
 | [top](#people--body) | :selfie: | `:selfie:` | | | [top](#table-of-contents) |
 
-#### Body Parts
+##### Body Parts
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -284,7 +360,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#people--body) | :eye: | `:eye:` | :tongue: | `:tongue:` | [top](#table-of-contents) |
 | [top](#people--body) | :lips: | `:lips:` | | | [top](#table-of-contents) |
 
-#### Person
+##### Person
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -303,7 +379,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#people--body) | :blond_haired_man: | `:blond_haired_man:` | :older_adult: | `:older_adult:` | [top](#table-of-contents) |
 | [top](#people--body) | :older_man: | `:older_man:` | :older_woman: | `:older_woman:` | [top](#table-of-contents) |
 
-#### Person Gesture
+##### Person Gesture
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -323,7 +399,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#people--body) | :woman_facepalming: | `:woman_facepalming:` | :shrug: | `:shrug:` | [top](#table-of-contents) |
 | [top](#people--body) | :man_shrugging: | `:man_shrugging:` | :woman_shrugging: | `:woman_shrugging:` | [top](#table-of-contents) |
 
-#### Person Role
+##### Person Role
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -368,7 +444,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#people--body) | :woman_feeding_baby: | `:woman_feeding_baby:` | :man_feeding_baby: | `:man_feeding_baby:` | [top](#table-of-contents) |
 | [top](#people--body) | :person_feeding_baby: | `:person_feeding_baby:` | | | [top](#table-of-contents) |
 
-#### Person Fantasy
+##### Person Fantasy
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -389,7 +465,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#people--body) | :zombie: | `:zombie:` | :zombie_man: | `:zombie_man:` | [top](#table-of-contents) |
 | [top](#people--body) | :zombie_woman: | `:zombie_woman:` | | | [top](#table-of-contents) |
 
-#### Person Activity
+##### Person Activity
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -414,7 +490,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#people--body) | :climbing: | `:climbing:` | :climbing_man: | `:climbing_man:` | [top](#table-of-contents) |
 | [top](#people--body) | :climbing_woman: | `:climbing_woman:` | | | [top](#table-of-contents) |
 
-#### Person Sport
+##### Person Sport
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -441,7 +517,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#people--body) | :juggling_person: | `:juggling_person:` | :man_juggling: | `:man_juggling:` | [top](#table-of-contents) |
 | [top](#people--body) | :woman_juggling: | `:woman_juggling:` | | | [top](#table-of-contents) |
 
-#### Person Resting
+##### Person Resting
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -449,7 +525,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#people--body) | :lotus_position_woman: | `:lotus_position_woman:` | :bath: | `:bath:` | [top](#table-of-contents) |
 | [top](#people--body) | :sleeping_bed: | `:sleeping_bed:` | | | [top](#table-of-contents) |
 
-#### Family
+##### Family
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -473,7 +549,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#people--body) | :family_woman_boy_boy: | `:family_woman_boy_boy:` | :family_woman_girl: | `:family_woman_girl:` | [top](#table-of-contents) |
 | [top](#people--body) | :family_woman_girl_boy: | `:family_woman_girl_boy:` | :family_woman_girl_girl: | `:family_woman_girl_girl:` | [top](#table-of-contents) |
 
-#### Person Symbol
+##### Person Symbol
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -481,7 +557,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#people--body) | :busts_in_silhouette: | `:busts_in_silhouette:` | :people_hugging: | `:people_hugging:` | [top](#table-of-contents) |
 | [top](#people--body) | :footprints: | `:footprints:` | | | [top](#table-of-contents) |
 
-### Animals & Nature
+#### Animals & Nature
 
 - [Animal Mammal](#animal-mammal)
 - [Animal Bird](#animal-bird)
@@ -492,7 +568,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 - [Plant Flower](#plant-flower)
 - [Plant Other](#plant-other)
 
-#### Animal Mammal
+##### Animal Mammal
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -529,7 +605,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#animals--nature) | :skunk: | `:skunk:` | :kangaroo: | `:kangaroo:` | [top](#table-of-contents) |
 | [top](#animals--nature) | :badger: | `:badger:` | :feet: | `:feet:` <br /> `:paw_prints:` | [top](#table-of-contents) |
 
-#### Animal Bird
+##### Animal Bird
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -543,13 +619,13 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#animals--nature) | :feather: | `:feather:` | :flamingo: | `:flamingo:` | [top](#table-of-contents) |
 | [top](#animals--nature) | :peacock: | `:peacock:` | :parrot: | `:parrot:` | [top](#table-of-contents) |
 
-#### Animal Amphibian
+##### Animal Amphibian
 
 | | ico | shortcode | |
 | - | :-: | - | - |
 | [top](#animals--nature) | :frog: | `:frog:` | [top](#table-of-contents) |
 
-#### Animal Reptile
+##### Animal Reptile
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -558,7 +634,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#animals--nature) | :dragon_face: | `:dragon_face:` | :dragon: | `:dragon:` | [top](#table-of-contents) |
 | [top](#animals--nature) | :sauropod: | `:sauropod:` | :t-rex: | `:t-rex:` | [top](#table-of-contents) |
 
-#### Animal Marine
+##### Animal Marine
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -568,7 +644,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#animals--nature) | :blowfish: | `:blowfish:` | :shark: | `:shark:` | [top](#table-of-contents) |
 | [top](#animals--nature) | :octopus: | `:octopus:` | :shell: | `:shell:` | [top](#table-of-contents) |
 
-#### Animal Bug
+##### Animal Bug
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -581,7 +657,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#animals--nature) | :mosquito: | `:mosquito:` | :fly: | `:fly:` | [top](#table-of-contents) |
 | [top](#animals--nature) | :worm: | `:worm:` | :microbe: | `:microbe:` | [top](#table-of-contents) |
 
-#### Plant Flower
+##### Plant Flower
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -591,7 +667,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#animals--nature) | :hibiscus: | `:hibiscus:` | :sunflower: | `:sunflower:` | [top](#table-of-contents) |
 | [top](#animals--nature) | :blossom: | `:blossom:` | :tulip: | `:tulip:` | [top](#table-of-contents) |
 
-#### Plant Other
+##### Plant Other
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -603,7 +679,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#animals--nature) | :maple_leaf: | `:maple_leaf:` | :fallen_leaf: | `:fallen_leaf:` | [top](#table-of-contents) |
 | [top](#animals--nature) | :leaves: | `:leaves:` | :mushroom: | `:mushroom:` | [top](#table-of-contents) |
 
-### Food & Drink
+#### Food & Drink
 
 - [Food Fruit](#food-fruit)
 - [Food Vegetable](#food-vegetable)
@@ -614,7 +690,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 - [Drink](#drink)
 - [Dishware](#dishware)
 
-#### Food Fruit
+##### Food Fruit
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -629,7 +705,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#food--drink) | :tomato: | `:tomato:` | :olive: | `:olive:` | [top](#table-of-contents) |
 | [top](#food--drink) | :coconut: | `:coconut:` | | | [top](#table-of-contents) |
 
-#### Food Vegetable
+##### Food Vegetable
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -641,7 +717,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#food--drink) | :garlic: | `:garlic:` | :onion: | `:onion:` | [top](#table-of-contents) |
 | [top](#food--drink) | :peanuts: | `:peanuts:` | :chestnut: | `:chestnut:` | [top](#table-of-contents) |
 
-#### Food Prepared
+##### Food Prepared
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -663,7 +739,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#food--drink) | :popcorn: | `:popcorn:` | :butter: | `:butter:` | [top](#table-of-contents) |
 | [top](#food--drink) | :salt: | `:salt:` | :canned_food: | `:canned_food:` | [top](#table-of-contents) |
 
-#### Food Asian
+##### Food Asian
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -677,7 +753,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#food--drink) | :dumpling: | `:dumpling:` | :fortune_cookie: | `:fortune_cookie:` | [top](#table-of-contents) |
 | [top](#food--drink) | :takeout_box: | `:takeout_box:` | | | [top](#table-of-contents) |
 
-#### Food Marine
+##### Food Marine
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -685,7 +761,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#food--drink) | :shrimp: | `:shrimp:` | :squid: | `:squid:` | [top](#table-of-contents) |
 | [top](#food--drink) | :oyster: | `:oyster:` | | | [top](#table-of-contents) |
 
-#### Food Sweet
+##### Food Sweet
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -697,7 +773,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#food--drink) | :candy: | `:candy:` | :lollipop: | `:lollipop:` | [top](#table-of-contents) |
 | [top](#food--drink) | :custard: | `:custard:` | :honey_pot: | `:honey_pot:` | [top](#table-of-contents) |
 
-#### Drink
+##### Drink
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -712,7 +788,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#food--drink) | :beverage_box: | `:beverage_box:` | :mate: | `:mate:` | [top](#table-of-contents) |
 | [top](#food--drink) | :ice_cube: | `:ice_cube:` | | | [top](#table-of-contents) |
 
-#### Dishware
+##### Dishware
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -720,7 +796,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#food--drink) | :fork_and_knife: | `:fork_and_knife:` | :spoon: | `:spoon:` | [top](#table-of-contents) |
 | [top](#food--drink) | :hocho: | `:hocho:` <br /> `:knife:` | :amphora: | `:amphora:` | [top](#table-of-contents) |
 
-### Travel & Places
+#### Travel & Places
 
 - [Place Map](#place-map)
 - [Place Geographic](#place-geographic)
@@ -734,7 +810,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 - [Time](#time)
 - [Sky & Weather](#sky--weather)
 
-#### Place Map
+##### Place Map
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -743,7 +819,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#travel--places) | :world_map: | `:world_map:` | :japan: | `:japan:` | [top](#table-of-contents) |
 | [top](#travel--places) | :compass: | `:compass:` | | | [top](#table-of-contents) |
 
-#### Place Geographic
+##### Place Geographic
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -753,7 +829,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#travel--places) | :desert: | `:desert:` | :desert_island: | `:desert_island:` | [top](#table-of-contents) |
 | [top](#travel--places) | :national_park: | `:national_park:` | | | [top](#table-of-contents) |
 
-#### Place Building
+##### Place Building
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -772,7 +848,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#travel--places) | :wedding: | `:wedding:` | :tokyo_tower: | `:tokyo_tower:` | [top](#table-of-contents) |
 | [top](#travel--places) | :statue_of_liberty: | `:statue_of_liberty:` | | | [top](#table-of-contents) |
 
-#### Place Religious
+##### Place Religious
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -780,7 +856,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#travel--places) | :hindu_temple: | `:hindu_temple:` | :synagogue: | `:synagogue:` | [top](#table-of-contents) |
 | [top](#travel--places) | :shinto_shrine: | `:shinto_shrine:` | :kaaba: | `:kaaba:` | [top](#table-of-contents) |
 
-#### Place Other
+##### Place Other
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -793,7 +869,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#travel--places) | :ferris_wheel: | `:ferris_wheel:` | :roller_coaster: | `:roller_coaster:` | [top](#table-of-contents) |
 | [top](#travel--places) | :barber: | `:barber:` | :circus_tent: | `:circus_tent:` | [top](#table-of-contents) |
 
-#### Transport Ground
+##### Transport Ground
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -823,7 +899,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#travel--places) | :vertical_traffic_light: | `:vertical_traffic_light:` | :stop_sign: | `:stop_sign:` | [top](#table-of-contents) |
 | [top](#travel--places) | :construction: | `:construction:` | | | [top](#table-of-contents) |
 
-#### Transport Water
+##### Transport Water
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -832,7 +908,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#travel--places) | :passenger_ship: | `:passenger_ship:` | :ferry: | `:ferry:` | [top](#table-of-contents) |
 | [top](#travel--places) | :motor_boat: | `:motor_boat:` | :ship: | `:ship:` | [top](#table-of-contents) |
 
-#### Transport Air
+##### Transport Air
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -844,13 +920,13 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#travel--places) | :artificial_satellite: | `:artificial_satellite:` | :rocket: | `:rocket:` | [top](#table-of-contents) |
 | [top](#travel--places) | :flying_saucer: | `:flying_saucer:` | | | [top](#table-of-contents) |
 
-#### Hotel
+##### Hotel
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
 | [top](#travel--places) | :bellhop_bell: | `:bellhop_bell:` | :luggage: | `:luggage:` | [top](#table-of-contents) |
 
-#### Time
+##### Time
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -871,7 +947,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#travel--places) | :clock1030: | `:clock1030:` | :clock11: | `:clock11:` | [top](#table-of-contents) |
 | [top](#travel--places) | :clock1130: | `:clock1130:` | | | [top](#table-of-contents) |
 
-#### Sky & Weather
+##### Sky & Weather
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -900,7 +976,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#travel--places) | :fire: | `:fire:` | :droplet: | `:droplet:` | [top](#table-of-contents) |
 | [top](#travel--places) | :ocean: | `:ocean:` | | | [top](#table-of-contents) |
 
-### Activities
+#### Activities
 
 - [Event](#event)
 - [Award Medal](#award-medal)
@@ -908,7 +984,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 - [Game](#game)
 - [Arts & Crafts](#arts--crafts)
 
-#### Event
+##### Event
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -924,7 +1000,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#activities) | :reminder_ribbon: | `:reminder_ribbon:` | :tickets: | `:tickets:` | [top](#table-of-contents) |
 | [top](#activities) | :ticket: | `:ticket:` | | | [top](#table-of-contents) |
 
-#### Award Medal
+##### Award Medal
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -932,7 +1008,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#activities) | :medal_sports: | `:medal_sports:` | :1st_place_medal: | `:1st_place_medal:` | [top](#table-of-contents) |
 | [top](#activities) | :2nd_place_medal: | `:2nd_place_medal:` | :3rd_place_medal: | `:3rd_place_medal:` | [top](#table-of-contents) |
 
-#### Sport
+##### Sport
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -951,7 +1027,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#activities) | :ski: | `:ski:` | :sled: | `:sled:` | [top](#table-of-contents) |
 | [top](#activities) | :curling_stone: | `:curling_stone:` | | | [top](#table-of-contents) |
 
-#### Game
+##### Game
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -968,7 +1044,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#activities) | :black_joker: | `:black_joker:` | :mahjong: | `:mahjong:` | [top](#table-of-contents) |
 | [top](#activities) | :flower_playing_cards: | `:flower_playing_cards:` | | | [top](#table-of-contents) |
 
-#### Arts & Crafts
+##### Arts & Crafts
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -977,7 +1053,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#activities) | :sewing_needle: | `:sewing_needle:` | :yarn: | `:yarn:` | [top](#table-of-contents) |
 | [top](#activities) | :knot: | `:knot:` | | | [top](#table-of-contents) |
 
-### Objects
+#### Objects
 
 - [Clothing](#clothing)
 - [Sound](#sound)
@@ -998,7 +1074,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 - [Household](#household)
 - [Other Object](#other-object)
 
-#### Clothing
+##### Clothing
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -1026,7 +1102,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#objects) | :lipstick: | `:lipstick:` | :ring: | `:ring:` | [top](#table-of-contents) |
 | [top](#objects) | :gem: | `:gem:` | | | [top](#table-of-contents) |
 
-#### Sound
+##### Sound
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -1036,7 +1112,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#objects) | :postal_horn: | `:postal_horn:` | :bell: | `:bell:` | [top](#table-of-contents) |
 | [top](#objects) | :no_bell: | `:no_bell:` | | | [top](#table-of-contents) |
 
-#### Music
+##### Music
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -1046,7 +1122,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#objects) | :microphone: | `:microphone:` | :headphones: | `:headphones:` | [top](#table-of-contents) |
 | [top](#objects) | :radio: | `:radio:` | | | [top](#table-of-contents) |
 
-#### Musical Instrument
+##### Musical Instrument
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -1056,7 +1132,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#objects) | :banjo: | `:banjo:` | :drum: | `:drum:` | [top](#table-of-contents) |
 | [top](#objects) | :long_drum: | `:long_drum:` | | | [top](#table-of-contents) |
 
-#### Phone
+##### Phone
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -1064,7 +1140,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#objects) | :phone: | `:phone:` <br /> `:telephone:` | :telephone_receiver: | `:telephone_receiver:` | [top](#table-of-contents) |
 | [top](#objects) | :pager: | `:pager:` | :fax: | `:fax:` | [top](#table-of-contents) |
 
-#### Computer
+##### Computer
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -1076,7 +1152,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#objects) | :cd: | `:cd:` | :dvd: | `:dvd:` | [top](#table-of-contents) |
 | [top](#objects) | :abacus: | `:abacus:` | | | [top](#table-of-contents) |
 
-#### Light & Video
+##### Light & Video
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -1089,7 +1165,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#objects) | :bulb: | `:bulb:` | :flashlight: | `:flashlight:` | [top](#table-of-contents) |
 | [top](#objects) | :izakaya_lantern: | `:izakaya_lantern:` <br /> `:lantern:` | :diya_lamp: | `:diya_lamp:` | [top](#table-of-contents) |
 
-#### Book Paper
+##### Book Paper
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -1103,7 +1179,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#objects) | :bookmark_tabs: | `:bookmark_tabs:` | :bookmark: | `:bookmark:` | [top](#table-of-contents) |
 | [top](#objects) | :label: | `:label:` | | | [top](#table-of-contents) |
 
-#### Money
+##### Money
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -1113,7 +1189,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#objects) | :money_with_wings: | `:money_with_wings:` | :credit_card: | `:credit_card:` | [top](#table-of-contents) |
 | [top](#objects) | :receipt: | `:receipt:` | :chart: | `:chart:` | [top](#table-of-contents) |
 
-#### Mail
+##### Mail
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -1125,7 +1201,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#objects) | :mailbox_with_no_mail: | `:mailbox_with_no_mail:` | :postbox: | `:postbox:` | [top](#table-of-contents) |
 | [top](#objects) | :ballot_box: | `:ballot_box:` | | | [top](#table-of-contents) |
 
-#### Writing
+##### Writing
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -1134,7 +1210,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#objects) | :paintbrush: | `:paintbrush:` | :crayon: | `:crayon:` | [top](#table-of-contents) |
 | [top](#objects) | :memo: | `:memo:` <br /> `:pencil:` | | | [top](#table-of-contents) |
 
-#### Office
+##### Office
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -1151,7 +1227,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#objects) | :card_file_box: | `:card_file_box:` | :file_cabinet: | `:file_cabinet:` | [top](#table-of-contents) |
 | [top](#objects) | :wastebasket: | `:wastebasket:` | | | [top](#table-of-contents) |
 
-#### Lock
+##### Lock
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -1159,7 +1235,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#objects) | :lock_with_ink_pen: | `:lock_with_ink_pen:` | :closed_lock_with_key: | `:closed_lock_with_key:` | [top](#table-of-contents) |
 | [top](#objects) | :key: | `:key:` | :old_key: | `:old_key:` | [top](#table-of-contents) |
 
-#### Tool
+##### Tool
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -1177,7 +1253,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#objects) | :toolbox: | `:toolbox:` | :magnet: | `:magnet:` | [top](#table-of-contents) |
 | [top](#objects) | :ladder: | `:ladder:` | | | [top](#table-of-contents) |
 
-#### Science
+##### Science
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -1186,7 +1262,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#objects) | :microscope: | `:microscope:` | :telescope: | `:telescope:` | [top](#table-of-contents) |
 | [top](#objects) | :satellite: | `:satellite:` | | | [top](#table-of-contents) |
 
-#### Medical
+##### Medical
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -1194,7 +1270,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#objects) | :pill: | `:pill:` | :adhesive_bandage: | `:adhesive_bandage:` | [top](#table-of-contents) |
 | [top](#objects) | :stethoscope: | `:stethoscope:` | | | [top](#table-of-contents) |
 
-#### Household
+##### Household
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -1211,7 +1287,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#objects) | :toothbrush: | `:toothbrush:` | :sponge: | `:sponge:` | [top](#table-of-contents) |
 | [top](#objects) | :fire_extinguisher: | `:fire_extinguisher:` | :shopping_cart: | `:shopping_cart:` | [top](#table-of-contents) |
 
-#### Other Object
+##### Other Object
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -1220,7 +1296,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#objects) | :nazar_amulet: | `:nazar_amulet:` | :moyai: | `:moyai:` | [top](#table-of-contents) |
 | [top](#objects) | :placard: | `:placard:` | | | [top](#table-of-contents) |
 
-### Symbols
+#### Symbols
 
 - [Transport Sign](#transport-sign)
 - [Warning](#warning)
@@ -1237,7 +1313,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 - [Alphanum](#alphanum)
 - [Geometric](#geometric)
 
-#### Transport Sign
+##### Transport Sign
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -1249,7 +1325,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#symbols) | :customs: | `:customs:` | :baggage_claim: | `:baggage_claim:` | [top](#table-of-contents) |
 | [top](#symbols) | :left_luggage: | `:left_luggage:` | | | [top](#table-of-contents) |
 
-#### Warning
+##### Warning
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -1261,7 +1337,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#symbols) | :underage: | `:underage:` | :radioactive: | `:radioactive:` | [top](#table-of-contents) |
 | [top](#symbols) | :biohazard: | `:biohazard:` | | | [top](#table-of-contents) |
 
-#### Arrow
+##### Arrow
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -1277,7 +1353,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#symbols) | :on: | `:on:` | :soon: | `:soon:` | [top](#table-of-contents) |
 | [top](#symbols) | :top: | `:top:` | | | [top](#table-of-contents) |
 
-#### Religion
+##### Religion
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -1288,7 +1364,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#symbols) | :star_and_crescent: | `:star_and_crescent:` | :peace_symbol: | `:peace_symbol:` | [top](#table-of-contents) |
 | [top](#symbols) | :menorah: | `:menorah:` | :six_pointed_star: | `:six_pointed_star:` | [top](#table-of-contents) |
 
-#### Zodiac
+##### Zodiac
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -1300,7 +1376,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#symbols) | :aquarius: | `:aquarius:` | :pisces: | `:pisces:` | [top](#table-of-contents) |
 | [top](#symbols) | :ophiuchus: | `:ophiuchus:` | | | [top](#table-of-contents) |
 
-#### Av Symbol
+##### Av Symbol
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -1317,14 +1393,14 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#symbols) | :high_brightness: | `:high_brightness:` | :signal_strength: | `:signal_strength:` | [top](#table-of-contents) |
 | [top](#symbols) | :vibration_mode: | `:vibration_mode:` | :mobile_phone_off: | `:mobile_phone_off:` | [top](#table-of-contents) |
 
-#### Gender
+##### Gender
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
 | [top](#symbols) | :female_sign: | `:female_sign:` | :male_sign: | `:male_sign:` | [top](#table-of-contents) |
 | [top](#symbols) | :transgender_symbol: | `:transgender_symbol:` | | | [top](#table-of-contents) |
 
-#### Math
+##### Math
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -1332,7 +1408,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#symbols) | :heavy_minus_sign: | `:heavy_minus_sign:` | :heavy_division_sign: | `:heavy_division_sign:` | [top](#table-of-contents) |
 | [top](#symbols) | :infinity: | `:infinity:` | | | [top](#table-of-contents) |
 
-#### Punctuation
+##### Punctuation
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -1341,13 +1417,13 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#symbols) | :grey_exclamation: | `:grey_exclamation:` | :exclamation: | `:exclamation:` <br /> `:heavy_exclamation_mark:` | [top](#table-of-contents) |
 | [top](#symbols) | :wavy_dash: | `:wavy_dash:` | | | [top](#table-of-contents) |
 
-#### Currency
+##### Currency
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
 | [top](#symbols) | :currency_exchange: | `:currency_exchange:` | :heavy_dollar_sign: | `:heavy_dollar_sign:` | [top](#table-of-contents) |
 
-#### Other Symbol
+##### Other Symbol
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -1363,7 +1439,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#symbols) | :copyright: | `:copyright:` | :registered: | `:registered:` | [top](#table-of-contents) |
 | [top](#symbols) | :tm: | `:tm:` | | | [top](#table-of-contents) |
 
-#### Keycap
+##### Keycap
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -1375,7 +1451,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#symbols) | :eight: | `:eight:` | :nine: | `:nine:` | [top](#table-of-contents) |
 | [top](#symbols) | :keycap_ten: | `:keycap_ten:` | | | [top](#table-of-contents) |
 
-#### Alphanum
+##### Alphanum
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -1400,7 +1476,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#symbols) | :secret: | `:secret:` | :u55b6: | `:u55b6:` | [top](#table-of-contents) |
 | [top](#symbols) | :u6e80: | `:u6e80:` | | | [top](#table-of-contents) |
 
-#### Geometric
+##### Geometric
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -1422,13 +1498,13 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#symbols) | :diamond_shape_with_a_dot_inside: | `:diamond_shape_with_a_dot_inside:` | :radio_button: | `:radio_button:` | [top](#table-of-contents) |
 | [top](#symbols) | :white_square_button: | `:white_square_button:` | :black_square_button: | `:black_square_button:` | [top](#table-of-contents) |
 
-### Flags
+#### Flags
 
 - [Flag](#flag)
 - [Country Flag](#country-flag)
 - [Subdivision Flag](#subdivision-flag)
 
-#### Flag
+##### Flag
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -1437,7 +1513,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#flags) | :white_flag: | `:white_flag:` | :rainbow_flag: | `:rainbow_flag:` | [top](#table-of-contents) |
 | [top](#flags) | :transgender_flag: | `:transgender_flag:` | :pirate_flag: | `:pirate_flag:` | [top](#table-of-contents) |
 
-#### Country Flag
+##### Country Flag
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -1571,14 +1647,14 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#flags) | :mayotte: | `:mayotte:` | :south_africa: | `:south_africa:` | [top](#table-of-contents) |
 | [top](#flags) | :zambia: | `:zambia:` | :zimbabwe: | `:zimbabwe:` | [top](#table-of-contents) |
 
-#### Subdivision Flag
+##### Subdivision Flag
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
 | [top](#flags) | :england: | `:england:` | :scotland: | `:scotland:` | [top](#table-of-contents) |
 | [top](#flags) | :wales: | `:wales:` | | | [top](#table-of-contents) |
 
-### GitHub Custom Emoji
+#### GitHub Custom Emoji
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -1595,4 +1671,3 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#github-custom-emoji) | :suspect: | `:suspect:` | :trollface: | `:trollface:` | [top](#table-of-contents) |
 
 
-- [emoji collection - 2](https://github.com/sarunonline/coding_tips/blob/main/code_tips/code_tips/emoji/emojis.md)
